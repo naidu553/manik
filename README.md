@@ -1,0 +1,2 @@
+# manik
+hostname space2
